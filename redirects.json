@@ -1,0 +1,17 @@
+{
+    "a.local":{
+        "/": "https://www.google.ch/search?q=a",
+        "/1": "https://www.google.ch/search?q=a1",
+        "/2": "https://www.google.ch/search?q=a2"
+    },
+    "b.local":{
+        "/": "https://www.google.ch/search?q=b",
+        "/1": "https://www.google.ch/search?q=b1",
+        "/2": "https://www.google.ch/search?q=b2"
+    },
+    "c.local":{
+        "/": "https://www.google.ch/search?q=c",
+        "/1": "https://www.google.ch/search?q=c1",
+        "/2": "https://www.google.ch/search?q=c2"
+    }
+}
